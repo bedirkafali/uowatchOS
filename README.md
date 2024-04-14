@@ -9,7 +9,7 @@ For Galaxy Watches, hold your watch face, swipe quickly, and select your uowatch
 # What is the safest place to download?
 The GitHub releases page for this repository. (github.com/bedirkafali/uowatchOS/releases)
 # Why did you make this project?
-So, my friends have iPhones and Apple Watches and some on the past, my twin brother wanted an Apple Watch when he was 5, because of the butterfly watch face. (AIAIAI I'M YOUR LITTLE BUTTERFLY X3) Then some time to time, I started to get jealous of my friends even if I did not want to get jealous. Then after getting a Galaxy Watch5, I thought "Aww, it would be so nice if I could use watchOS watch faces or real watchOS in this watch!" Then in January 28th, I developed the first uowatchOS watch face in 5 hours, the MOST ANNOYING part was the keystore file. (My twin brother hates Apple EXTREMELY, if I'd get him an Apple product, he says he will break it!) So the main purpose is to prevent jealousy.
+So, my friends have iPhones and Apple Watches and some on the past, my twin brother wanted an Apple Watch when he was 5, because of the butterfly watch face. Then some time to time, I started to get jealous of my friends even if I did not want to get jealous. Then after getting a Galaxy Watch5, I thought "Aww, it would be so nice if I could use watchOS watch faces or real watchOS in this watch!" Then in January 28th, I developed the first uowatchOS watch face in 5 hours, the MOST ANNOYING part was the keystore file. (My twin brother hates Apple EXTREMELY, if I'd get him an Apple product, he says he will break it!) So the main purpose is to prevent jealousy.
 # Accepting any contributions?
 Not now, because uowatchOS is a non-profit project, but if you want, monthly paid version bundles will be available.
 Have fun!
